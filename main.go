@@ -9,8 +9,22 @@ func main() {
 
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
 // ? commit ikwe sostoyaniya anjivdora
 // ? commit commana qate use kinen
 // ? git add .
 // ? git commit -m"message"
 // ? git.log shows the time when we printed our code 
+// ? git.push
+// ? git.pull
