@@ -5,6 +5,7 @@ import "fmt"
 func main() {
 	fmt.Println("Hello Backend")
 	fmt.Println("Hello Backend2")
+	fmt.Println("Hello Backend3")
 
 
 }
@@ -12,4 +13,4 @@ func main() {
 // ? commit commana qate use kinen
 // ? git add .
 // ? git commit -m"message"
-// ? 
+// ? git.log shows the time when we printed our code 
